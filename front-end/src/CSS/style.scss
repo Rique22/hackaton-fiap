@@ -1,0 +1,33 @@
+@import "./_variable.scss";
+
+body{
+    background-color: #151819;
+}
+
+#navbar{
+    background-color: #151819;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .25);
+}
+
+#labelNavbar{
+    color: #ed145b;
+}
+
+#homeLabel{
+    color: #808080;
+}
+
+#buttonsLoginRegister{
+    display: flex;
+    position: relative;
+    left: 960px;
+    width: 135px;
+}
+
+#loginLabel{
+    color: #ed145b;
+}
+
+#registerLabel{
+    color: #ed145b;
+}
