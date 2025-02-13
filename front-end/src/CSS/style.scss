@@ -1,4 +1,4 @@
-@import "./_variable.scss";
+
 
 body{
     background-color: white;
@@ -35,19 +35,16 @@ body{
 }
 
 #homePage{
-    background-color: blue;
     height: 1000px;
     width: 100%;
+    align-items: center;
+    align-content: center;
 }
 
-/*#homeHeader{
-    height: 100px;
-    width: 100%;
-    background-color: red;
-}
-
-#homeMain{
+#lastNews{
+    position: relative;
+    left: 190px;
     height: 200px;
-    width: 100%;
-    background-color: aqua;
-}*/
+    width: 70%;
+    background-color: #151819;
+}

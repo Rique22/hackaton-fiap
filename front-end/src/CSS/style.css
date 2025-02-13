@@ -33,21 +33,18 @@ body {
 }
 
 #homePage {
-  background-color: blue;
   height: 1000px;
   width: 100%;
+  align-items: center;
+  align-content: center;
 }
 
-/*#homeHeader{
-    height: 100px;
-    width: 100%;
-    background-color: red;
+#lastNews {
+  position: relative;
+  left: 190px;
+  height: 200px;
+  width: 70%;
+  background-color: #151819;
 }
-
-#homeMain{
-    height: 200px;
-    width: 100%;
-    background-color: aqua;
-}*/
 
 /*# sourceMappingURL=style.css.map */
