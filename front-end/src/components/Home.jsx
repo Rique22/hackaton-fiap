@@ -1,9 +1,11 @@
 import React from 'react';
 
-function Header() {
-    return(
-        <main id='homePage'>
-
-        </main>
+function Home() {
+    return (
+        <div id='homePage'>
+            
+        </div>
     );
 }
+
+export default Home;
