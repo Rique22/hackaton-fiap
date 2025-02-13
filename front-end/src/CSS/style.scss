@@ -37,14 +37,37 @@ body{
 #homePage{
     height: 1000px;
     width: 100%;
-    align-items: center;
-    align-content: center;
 }
 
-#lastNews{
+#carossel{
     position: relative;
+    top: 20px;
     left: 190px;
     height: 200px;
     width: 70%;
     background-color: #151819;
+}
+
+#carouselExampleControls{
+    width: 100%;
+    height: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+h1{
+    color: #ed145b;
+}
+
+p{
+    color: #808080;
+}
+
+#lastNews{
+    position: relative;
+    top: 40px;
+    left: 190px;
+    background-color: blue;
+    height: 250px;
+    width: 70%;
 }
