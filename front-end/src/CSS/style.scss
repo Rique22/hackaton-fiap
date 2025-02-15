@@ -67,7 +67,24 @@ p{
     position: relative;
     top: 40px;
     left: 190px;
-    background-color: blue;
-    height: 250px;
+    height: 240px;
     width: 70%;
+}
+
+.card{
+    display: flex;
+    width: 200px;
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    height: 90px;
+}
+
+h5{
+    color: #ed145b;
 }

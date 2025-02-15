@@ -1,4 +1,5 @@
 import React from 'react';
+import Card from '../components/Card.jsx';
 
 function Home() {
     return (
@@ -31,6 +32,10 @@ function Home() {
             </section>
             <section id='lastNews'>
                 <h1>Ultimas noticias</h1>
+
+                <div class='row'>
+                    <Card title='AI' content='aaaaaaa' images=''/>
+                </div>
             </section>
         </div>
     );
